@@ -30,6 +30,8 @@ namespace Tetel_Megszamolas
                 T[i] = tmp;
             }
 
+
+
             Console.WriteLine($"Az elemek: {String.Join(", ", T)}");
             Console.WriteLine("Program vége!");
             Console.ReadKey();
